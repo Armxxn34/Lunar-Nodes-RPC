@@ -7,7 +7,7 @@ const config = require('./config.json')
          client.setActivity({ 
             buttons: [{ label: "Website", url: "https://lunarnodes.xyz"}, { label: "Discord", url: "https://discord.gg/tga4kvrgEA" }],
             details: "A free, reliable hosting!",
-            largeImageKey: 'lunar'
+            largeImageKey: 'THEKEY.....'
             
         }).catch(err => console.log(err));
 
